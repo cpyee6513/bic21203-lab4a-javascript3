@@ -45,7 +45,7 @@ statements.
 ![Equal to 10](screenshots/Q2-equal.png)
 ![Higher than 10](screenshots/Q2-higher.png)
 ![Invalid Input](screenshots/Q2-invalid.png)
-![Empty Input](screenshots/Q2-invalid 2.png)
+![Empty Input](screenshots/Q2-invalid-2.png)
 
 ## Question 3: Dynamic Number Generator
 This webpage uses a for loop and DOM methods
